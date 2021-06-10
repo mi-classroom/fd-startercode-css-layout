@@ -1,1 +1,2 @@
-# fd-startercode-css-layout
+# Startercode für die CSS Layout Session
+
